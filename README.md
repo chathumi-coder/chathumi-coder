@@ -11,7 +11,7 @@
 ✨ Passionate about creating **modern, animated, user-friendly apps**  
 💻 Currently learning **Full Stack Development**  
 🎯 Goal: Become a **Professional Software Engineer**  
-🎨 Founder of **CM graphy**
+🎨 Founder of **CODIXCO**
 
 ---
 
@@ -51,8 +51,3 @@
 ## 💫 Quote
 _"Design. Code. Create. Repeat."_ 🔥
 
-
-
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/chathumi-coder/chathumi-coder/blob/output/github-contribution-grid-snake.svg)
